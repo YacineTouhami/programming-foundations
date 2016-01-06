@@ -1,0 +1,24 @@
+# calculator_messages.yml
+en:
+    welcome: "Welcome to Calculator! Enter your name:"
+    valid_name: "Make sure to end a valid name."
+    first_num: "Please enter the first number"
+    second_num: "Please enter the second number"
+    valid_num: "Enter a valid number"
+    input_op: "Enter + or - or * or /"
+    valid_op: "it's not a valid operation"
+    continue: "Do you want to perform another operation? 'Y' to continue"
+    result: "the result is: "
+    thanks: "Thank you for your visit!"
+fr: 
+    welcome: "Bienvenue au calculator, entrez votre nom:"
+    valid_name: "Merci d'entrer un nom valide"
+    first_num: "Merci d'entrer un premier nombre"
+    second_num: "Merci d'entrer un second nombre"
+    valid_num: "Entrez un nombre valide"
+    input_op: "Entez + or - or * or /"
+    valid_op: "Ce n'est pas une operation valide"
+    continue: "Voulez vous continuer 'Y' pour continer"
+    result: "Le resultat est: "
+    thanks: "Merci pour votre visite!"
+    
