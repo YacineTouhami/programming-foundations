@@ -24,6 +24,7 @@ Style/CommentAnnotation:
     (TODO, FIXME, OPTIMIZE, HACK, REVIEW).
   StyleGuide: 'https://github.com/bbatsov/ruby-style-guide#annotate-keywords'
   Enabled: false
+  
 
 Style/StringLiterals:
   Enabled: false
