@@ -1,0 +1,26 @@
+# mortage_calculator_messages.yml
+en:
+    welcome: "Welcome to the mortage Calculator!"
+    #valid_name: "Make sure to end a valid name."
+    loan_amount: "Enter the loan amount"
+    valid_loan: "Loan amount is not valid"
+    apr: "Enter the Annual Percentage Rate,example: 5 for 5%, 3.25 for 3.25%"
+    valid_apr: "APR is not valid"
+    loan_dur: "Enter loan duration in months"
+    valid_loan_dur: "It's not a valid loan duration"
+    continue: "Do you want to perform another calculation? 'Y' to continue"
+    result: "the monthly payment is: "
+    thanks: "Thank you for your visit!"
+fr: 
+    welcome: "Bienvenue au calculator, entrez votre nom:"
+    #valid_name: "Merci d'entrer un nom valide"
+    loan_amount: "Entrez le montant du prêt"
+    valid_loan: "Entrez un montant valide"
+    apr: "Entrez le taux annuel en pourcentage"
+    valid_apr: "Le taux annuel n'est pas valide" 
+    loan_dur: "Entrez la durée du prêt en mois"
+    valid_loan_dur: "Ce n'est pas une durée valide" 
+    continue: "Voulez vous continuer 'Y' pour continer"
+    result: "Le montant mensuel est: "
+    thanks: "Merci pour votre visite!"
+    
